@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Yes, this is for ethical purposes
 <!--
 **ethical-purpose/ethical-purpose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
